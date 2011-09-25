@@ -1,0 +1,6 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  database: railsapp2_development
+  username: root
+  password: root
